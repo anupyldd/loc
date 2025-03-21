@@ -3,9 +3,9 @@ This is a tiny header-only utility for handling localization
 
 ### Structure
 
-**multi_str**: used to store multiple translations of one string.
+`multi_str`: used to store multiple translations of one string.
 
-**localization**: stores id-multi_str mapping for retrieving translations by id and language.
+`localization`: stores id-multi_str mapping for retrieving translations by id and language.
 
 Types for storing strings, languages and mappings can be customized with templates.
 
@@ -49,7 +49,7 @@ int main()
 
 ### License
 
-**loc** is released under CC0 / Public domain.
+**loc** is released into the public domain.
 
 
 
